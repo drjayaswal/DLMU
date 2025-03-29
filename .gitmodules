@@ -1,0 +1,12 @@
+[submodule "Deployer"]
+	path = Deployer
+	url = https://github.com/drjayaswal/Deployer.git
+[submodule "Launcher"]
+	path = Launcher
+	url = https://github.com/drjayaswal/Launcher.git
+[submodule "Medium"]
+	path = Medium
+	url = https://github.com/drjayaswal/Medium.git
+[submodule "Uploader"]
+	path = Uploader
+	url = https://github.com/drjayaswal/Uploader.git
